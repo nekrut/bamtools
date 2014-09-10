@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <tool_dependency>
     <package name="bamtools" version="2.3.0_2d7685d2ae">
-        <repository changeset_revision="9e50b79bc32b" name="package_bamtools" owner="anton" toolshed="http://toolshed.g2.bx.psu.edu" />
+        <repository changeset_revision="d812bde9d7aa" name="package_bamtools" owner="anton" toolshed="http://toolshed.g2.bx.psu.edu" />
     </package>
     <package name="samtools" version="0.1.18">
         <repository changeset_revision="171cd8bc208d" name="package_samtools_0_1_18" owner="devteam" toolshed="http://toolshed.g2.bx.psu.edu" />
