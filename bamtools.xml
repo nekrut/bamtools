@@ -114,7 +114,7 @@
         <option value="merge">Merge</option>
         <option value="random">Random</option>
         <option value="revert">Revert</option>
-      <!-- The sort option below is commented out as BAM files in Galaxy as reference sorted by dafault. -->
+      <!-- The sort option below is commented out as BAM files in Galaxy are reference sorted by dafault. -->
       <!-- Allowing users for sort files may break donstream functionality. -->
       <!-- To enable sort option simply uncomment the line below: -->
       <!--  <option value="sort">Sort</option> -->
