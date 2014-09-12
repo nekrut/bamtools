@@ -287,4 +287,7 @@ Removes duplicate marks and restores original (non-recalibrated) base qualities.
 Additional information about BAMtools can be found at https://github.com/pezmaster31/bamtools/wiki
 
   </help>
+  <citations>
+    <citation type="doi">10.1093/bioinformatics/btr174</citation>
+  </citations>
 </tool>
